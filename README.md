@@ -1,6 +1,6 @@
 # Scripter
 
-A Figma plugin that runs little scrips directly in Figma.
+A Figma plugin that runs little scripts directly in Figma.
 
 
 ## Local development
